@@ -1,5 +1,5 @@
 -- Create LabDatabase Database
-
+  
 GO
 
 -- Use LabDatabase Database
